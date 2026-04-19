@@ -146,9 +146,7 @@ congress-network-analysis/
 ├── outputs/
 │   ├── community_plot.png
 │   └── bridge_plot.png
-│
-├── requirements.txt
-└── .gitignore
+
 </pre>
 
 <ul>
